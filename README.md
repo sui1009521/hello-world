@@ -1,2 +1,4 @@
 # hello-world
-This is my first github
+
+Hai,
+this is my first GitHub.
